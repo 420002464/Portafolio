@@ -11,5 +11,6 @@ Este portafolio es un recopilatorio de diversos códigos tanto de programación 
 * [`Censura de datos.ipynb`](./Censura%20de%20datos.ipynb) Se implementa un programa para censurar nombres proveninetes de un diccionario, salvo la primera letra y el número de identificación de la persona.
 * [`Helecho.ipynb`](./Helecho.ipynb) Se programa una función que grafica el Helecho de Barnsley, el cual es un fractal.
 * [`Gráfica de Normal Multivariada.ipynb`](Gráfica%20de%20Normal%20Multivariada.ipynb) Se programa una gráfica de un ejemplo de una función de distribución Normal Multivariada.
+* [`Copo de Nieve.ipynb`](Copo%20de%20Nieve.ipynb) Se grafica el Copo de nieve de Koch por medio de la recursividad.
 
 
