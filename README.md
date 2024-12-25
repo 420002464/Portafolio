@@ -12,5 +12,5 @@ Este portafolio es un recopilatorio de diversos códigos tanto de programación 
 * [`Helecho.ipynb`](./Helecho.ipynb) Se programa una función que grafica el Helecho de Barnsley, el cual es un fractal.
 * [`Gráfica de Normal Multivariada.ipynb`](Gráfica%20de%20Normal%20Multivariada.ipynb) Se programa una gráfica de un ejemplo de una función de distribución Normal Multivariada.
 * [`Copo de Nieve.ipynb`](Copo%20de%20Nieve.ipynb) Se grafica el Copo de nieve de Koch por medio de la recursividad.
-
+* [`Pandas con funciones lambda.ipynb`](./Pandas%20con%20funciones%20lambda.ipynb) Usando lo visto en [Censura de datos.ipynb](./Censura%20de%20datos.ipynb), en un csv se le aplicará 
 
