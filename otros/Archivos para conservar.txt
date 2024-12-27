@@ -1,0 +1,4 @@
+logaritmos.txt
+documentacion.pdf
+wine.csv
+Graficas.py
