@@ -15,5 +15,5 @@ Este portafolio es un recopilatorio de diversos códigos tanto de programación 
 * [`Pandas con funciones lambda.ipynb`](./Pandas%20con%20funciones%20lambda.ipynb) Usando lo visto en [Censura de datos.ipynb](./Censura%20de%20datos.ipynb), en un csv se le aplicará censura en el campo de `nombres` y se modificará ésta, además de guardar el `dataframe` en un nuevo archivo `.csv`.
 * [`Convolución.ipynb`](./Convolución.ipynb) Se define la operación **convolución** y se programa un ejemplo para suma de **variables aleatorias continuas**.
 * [`LFGN.ipynb`](LFGN.ipynb) Se aplica la ley de los grandes números a distintas distribuciones.
-
+* [`Métodos Numéricos`](./Métodos%20Numéricos/) Es una carpeta que contiene implementaciones de diversos métodos numéricos.
 
