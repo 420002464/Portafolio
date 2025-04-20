@@ -1,0 +1,2 @@
+# 💻🐍👨‍🏫DOCENCIA👨‍🏫🐍💻
+Esta carpeta del repositorio muestra algunos materiales que se han usado en la enseñanza de Python. En las libretas llegan a haber algunos que son atípicos, es decir, no son los temas comunes que se llegan a abarcar o enfatizar en los cursos.
