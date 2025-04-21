@@ -1,5 +1,5 @@
-# Portafolio
-Este portafolio es un recopilatorio de diversos códigos tanto de programación de Python en general, hasta implementaciones de estadística con métodos pythonizados.
+# 🖥️🗂️🖋️💼🧑‍💻Portafolio🧑‍💻💼🖋️🗂️🖥️
+Hola, soy Luis Manuel y te presento mi portafolio🚀🚀.Este portafolio es un recopilatorio de diversos códigos tanto de programación de Python en general, hasta implementaciones de estadística con métodos pythonizados.
 ![](/otros/image.jpg)
 ![](/otros/image%20(3).png)
 
